@@ -31,15 +31,23 @@
     right: 0%;
 
 }
-.flecha {
-    
+
+.flecha {    
     border-radius: 50%;
-    background-color: red;
     width: 41px;
     height: 41px;
     margin-left: 15%;
-    margin-right: 15%;
-    
+    margin-right: 15%;   
+    background: #C1CDAA;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    background-repeat: no-repeat;
+}
 
+.izquierda{
+    background-image: url("../resources/Vector-izq.png");
     
+}
+.derecha{
+    background-image: url(../resources/Vector-der.png);
+ 
 }
