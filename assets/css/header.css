@@ -1,0 +1,42 @@
+.img-header {
+    background-image: url(../resources/bg-image.jpg);
+    background-size: cover;
+    background-position: center;
+    background: radial-gradient(63.6% 63.6% at 54.03% 45.84%, rgba(233, 211, 118, 0) 56.77%, rgba(245, 203, 51, 0.44) 100%);
+    
+}
+
+.header-logo{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+}
+
+ .fondoTitulo {
+    border-style: double;
+    width: 68px;
+    height: 108px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    position: absolute;
+} 
+
+h1{
+    font-size: 1.5em;
+    font-family: 'Beth Ellen';
+    text-align: center;
+    line-height: 20px;
+    z-index: 2;
+}
+
+p{
+    text-align: center;
+    font-family: 'Bhavuka';
+    justify-content: center;
+    z-index: 2;
+}
