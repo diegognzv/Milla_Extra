@@ -1,4 +1,7 @@
 @import url(header.css);
 @import url(main.css);
 @import url(footer.css);
-@import url(assets.css)
+@import url(assets.css);
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+@import url('http://fonts.cdnfonts.com/css/bhavuka');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
