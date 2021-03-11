@@ -1,4 +1,10 @@
 body {
+<<<<<<< HEAD
     background-image: url(/assets/resources/bg-image.jpg);
     margin: 0%;
+=======
+    background-image: url("/assets/resources/bg-image.jpg");
+    width: 100vw;
+    height: 100vh;
+>>>>>>> 4643e7be6c15778b056ebd3602b2d04097033709
 }
