@@ -1,3 +1,5 @@
 body {
-    background-image: url(/assets/resources/bg-image.jpg);
+    background-image: url("/assets/resources/bg-image.jpg");
+    width: 100vw;
+    height: 100vh;
 }

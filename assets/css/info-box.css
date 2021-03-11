@@ -1,0 +1,11 @@
+.info-box {
+position: absolute;
+left: 6.39%;
+right: 6.67%;
+top: 59.84%;
+bottom: 6.56%;
+
+background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 255, 255, 0.5) 99.91%);
+box-shadow: inset 0px -18px 8px rgba(255, 255, 255, 0.25);
+border-radius: 50px;
+}
