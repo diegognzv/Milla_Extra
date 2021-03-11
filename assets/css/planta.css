@@ -4,9 +4,10 @@
     width:  224px;
     height: 65px;
     position: absolute;
-    margin-top: 156px;
+    margin-top: 100px;
     opacity: 100%;
     z-index: 1;
+    margin-left: 30%;
 }
 
 .platoSombra {
@@ -18,11 +19,15 @@
     position: absolute;
     z-index: 1;
     
+    
 }
 
 .plantapic {
-    margin-left: 2%;
+    margin-left: 25%;
     position: absolute;
-    display: ;
     z-index: 2;
+    top: -22%;
+    width: 300px;
+    height: 280px;;
 }
+

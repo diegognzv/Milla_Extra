@@ -17,5 +17,29 @@
     width: 33rem;
     height: 35rem;
     left: -15%;
+  
+    
     margin-top:45%;
+}
+
+.slide{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 50%;
+    left: 0%;
+    right: 0%;
+
+}
+.flecha {
+    
+    border-radius: 50%;
+    background-color: red;
+    width: 41px;
+    height: 41px;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+
+    
 }
