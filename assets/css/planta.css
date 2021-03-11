@@ -26,8 +26,11 @@
     margin-left: 25%;
     position: absolute;
     z-index: 2;
-    top: -22%;
+    margin-top: -22%;
     width: 300px;
     height: 280px;;
 }
 
+.product {
+    position: relative;
+}
