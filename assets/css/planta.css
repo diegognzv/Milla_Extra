@@ -1,0 +1,36 @@
+.plato {
+    background-color: #FDF8E5;
+    border-radius: 100%;
+    width:  224px;
+    height: 65px;
+    position: absolute;
+    margin-top: 100px;
+    opacity: 100%;
+    z-index: 1;
+    margin-left: 30%;
+}
+
+.platoSombra {
+    background-color: #ffffff ; /**cambiar a #FFFFFF **/
+    border-radius: 100%;
+    width:  224px;
+    height: 76px;
+    opacity: 37%;
+    position: absolute;
+    z-index: 1;
+    
+    
+}
+
+.plantapic {
+    margin-left: 25%;
+    position: absolute;
+    z-index: 2;
+    margin-top: -22%;
+    width: 300px;
+    height: 280px;;
+}
+
+.product {
+    position: relative;
+}
