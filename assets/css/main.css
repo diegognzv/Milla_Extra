@@ -1,0 +1,21 @@
+.sombra {
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgba(255, 254, 236, 0.89);
+    width: 14rem;
+    height: 15rem;
+    left: 5.37rem;
+    top: -20%;
+    margin-left: 10% ;
+    filter: blur(30px);
+}
+
+.base {
+    position: relative;
+    background-color: #E3C065;
+    border-radius: 50%;
+    width: 33rem;
+    height: 35rem;
+    left: -15%;
+    margin-top:45%;
+}
