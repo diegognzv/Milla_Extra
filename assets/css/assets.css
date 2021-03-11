@@ -1,6 +1,5 @@
 body {
-    background-image: url("/assets/resources/bg-image.jpg");
     width: 100vw;
     height: 100vh;
-    position: absolute;
+    margin: 0mm;
 }
