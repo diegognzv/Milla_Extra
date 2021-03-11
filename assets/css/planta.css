@@ -1,0 +1,28 @@
+.plato {
+    background-color: #FDF8E5;
+    border-radius: 100%;
+    width:  224px;
+    height: 65px;
+    position: absolute;
+    margin-top: 156px;
+    opacity: 100%;
+    z-index: 1;
+}
+
+.platoSombra {
+    background-color: #ffffff ; /**cambiar a #FFFFFF **/
+    border-radius: 100%;
+    width:  224px;
+    height: 76px;
+    opacity: 37%;
+    position: absolute;
+    z-index: 1;
+    
+}
+
+.plantapic {
+    margin-left: 2%;
+    position: absolute;
+    display: ;
+    z-index: 2;
+}
