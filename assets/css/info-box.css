@@ -12,3 +12,10 @@ background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 
 box-shadow: inset 0px -18px 8px rgba(255, 255, 255, 0.25);
 border-radius: 50px;
 }
+
+.puntuacion {
+    position: absolute;
+    border-radius: 50%;
+    padding: 2.5%;
+    background: blue;
+}
