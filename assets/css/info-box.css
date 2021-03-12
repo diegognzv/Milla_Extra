@@ -1,21 +1,22 @@
 .info-box {
-    display: flex;
+    color: #385C0A;
+    display: inline-block;
     position: absolute;
-    left: 6%;
-    right: 6%;
-    top: 60%;
-    bottom: 6.5%;
+    left: 17%;
+    right: 17%;
+    top: 35%;
     text-align: center;
     padding-left: 5%;
     padding-right: 5%;
     background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 255, 255, 0.5) 99.91%);
     box-shadow: inset 0px -18px 8px rgba(255, 255, 255, 0.25);
     border-radius: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .puntuacion {
     position: absolute;
     border-radius: 50%;
     padding: 2.5%;
-    background: blue;
+    background: #FFFFFF;
 }
