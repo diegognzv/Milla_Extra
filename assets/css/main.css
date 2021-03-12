@@ -16,10 +16,9 @@
     border-radius: 50%;
     width: 33rem;
     height: 35rem;
-    left: -15%;
-  
-    
-    margin-top:45%;
+    object-fit: cover;  
+    margin-top:50%;
+    margin-left: -20%;
 }
 
 .slide{
@@ -40,14 +39,12 @@
     margin-right: 15%;   
     background: #C1CDAA;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-    background-repeat: no-repeat;
 }
 
-.izquierda{
-    background-image: url("../resources/Vector-izq.png");
-    
+.izquierda img {
+    margin: 25% 25%;
 }
-.derecha{
-    background-image: url(../resources/Vector-der.png);
- 
+
+.derecha img {
+    margin: 25% 25%;
 }
