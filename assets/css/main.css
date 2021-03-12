@@ -17,8 +17,7 @@
     width: 33rem;
     height: 35rem;
     left: -15%;
-  
-    
+    object-fit: cover;  
     margin-top:45%;
 }
 
