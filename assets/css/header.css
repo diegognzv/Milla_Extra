@@ -1,9 +1,8 @@
 .img-header {
-    background-image: url(../resources/bg-image.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background: radial-gradient(63.6% 63.6% at 54.03% 45.84%, rgba(233, 211, 118, 0) 56.77%, rgba(245, 203, 51, 0.44) 100%), url(../resources/bg-image.jpg);
+    background: radial-gradient(63.6% 63.6% at 54.03% 45.84%, rgba(233, 211, 118, 0) 56.77%, rgba(245, 203, 51, 0.44) 100%), url(../resources/limon.png);
     
 }
 
@@ -31,7 +30,7 @@ h1{
     font-size: 1.5em;
     font-family: 'Beth Ellen';
     text-align: center;
-    line-height: 20px;
+    line-height: 1px;
     z-index: 2;
     color: #527C1E;
 }
@@ -42,5 +41,4 @@ p{
     justify-content: center;
     z-index: 2;
     color: #527C1E;
-
 }
