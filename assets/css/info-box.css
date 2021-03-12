@@ -1,16 +1,16 @@
 .info-box {
-position: absolute;
-left: 6%;
-right: 6%;
-top: 60%;
-bottom: 6.5%;
-text-align: center;
-padding-left: 5%;
-padding-right: 5%;
-
-background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 255, 255, 0.5) 99.91%);
-box-shadow: inset 0px -18px 8px rgba(255, 255, 255, 0.25);
-border-radius: 50px;
+    display: flex;
+    position: absolute;
+    left: 6%;
+    right: 6%;
+    top: 60%;
+    bottom: 6.5%;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 255, 255, 0.5) 99.91%);
+    box-shadow: inset 0px -18px 8px rgba(255, 255, 255, 0.25);
+    border-radius: 50px;
 }
 
 .puntuacion {
