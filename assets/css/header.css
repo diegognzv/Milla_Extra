@@ -2,7 +2,8 @@
     background-image: url(../resources/bg-image.jpg);
     background-size: cover;
     background-position: center;
-    background: radial-gradient(63.6% 63.6% at 54.03% 45.84%, rgba(233, 211, 118, 0) 56.77%, rgba(245, 203, 51, 0.44) 100%);
+    background-repeat: no-repeat;
+    background: radial-gradient(63.6% 63.6% at 54.03% 45.84%, rgba(233, 211, 118, 0) 56.77%, rgba(245, 203, 51, 0.44) 100%), url(../resources/bg-image.jpg);
     
 }
 
@@ -32,6 +33,7 @@ h1{
     text-align: center;
     line-height: 20px;
     z-index: 2;
+    color: #527C1E;
 }
 
 p{
@@ -39,4 +41,6 @@ p{
     font-family: 'Bhavuka';
     justify-content: center;
     z-index: 2;
+    color: #527C1E;
+
 }
