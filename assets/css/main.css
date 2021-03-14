@@ -1,3 +1,10 @@
+main {
+    position: relative;
+    overflow: hidden;
+    width: 100vw;
+    height: 1000vw;
+}
+
 .sombra {
     position: absolute;
     border-radius: 50%;
@@ -11,17 +18,17 @@
 }
 
 .base {
-    position: relative;
+    position: absolute;
     background-color: #E3C065;
     border-radius: 50%;
-    width: 33rem;
-    height: 35rem;
-    object-fit: cover;  
+    width: 150vw;
+    height: 35rem; 
     margin-top:50%;
-    margin-left: -20%;
+    margin-left: -25%;
 }
 
 .slide{
+    
     display: flex;
     justify-content: space-between;
     width: 100%;

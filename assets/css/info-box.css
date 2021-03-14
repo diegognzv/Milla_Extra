@@ -1,4 +1,5 @@
 .info-box {
+    position: absolute;
     color: #385C0A;
     display: inline-block;
     position: absolute;
@@ -19,4 +20,9 @@
     border-radius: 50%;
     padding: 2.5%;
     background: #FFFFFF;
+}
+
+.botones_likecam {
+    position: absolute;
+    
 }
