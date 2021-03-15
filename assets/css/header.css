@@ -6,6 +6,7 @@
 .img-header img {
     object-fit: fill;
     background-size: contain;
+    width: 106%;
 }
 
 .header-logo {
