@@ -1,6 +1,6 @@
 .plato {
-    margin-left: 31%;
-    margin-top: 53%;
+    margin-left: 33%;
+    margin-top: 60%;
     background-color: #FDF8E5;
     border-radius: 100%;
     width:  150px;
@@ -13,22 +13,17 @@
 
 .plantapic {
     margin-left: 18%;
-    
-
     position: absolute;
     z-index: 2;
     width: 280px;
     height: 280px;
-    justify-items: center;
-    
+    justify-items: center;    
 }
 
 .categories {
     position: relative;
-    top: 0;
-    height: 20%;    
-    align-items: center;
-    
+    height: 25%;    
+    align-items: center;    
 }
 
 .product{
@@ -36,6 +31,4 @@
     width: 100%;
     position: absolute;
     justify-content: center;
-   
-
 }
