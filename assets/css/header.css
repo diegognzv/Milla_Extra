@@ -28,7 +28,7 @@
     position: absolute;
 } 
 
-h1{
+h1 {
     font-size: 1.5em;
     font-family: 'Beth Ellen';
     text-align: center;
@@ -40,7 +40,7 @@ h1{
     margin-right: 6%;
 }
 
-p{
+p {
     text-align: center;
     font-family: 'Bhavuka';
     font-weight: 700;
@@ -49,5 +49,4 @@ p{
     color: #527C1E;
     margin-top: 2%;
     margin-right: 3%;
-
 }
