@@ -1,0 +1,13 @@
+#second-view {
+    display: none;
+}
+
+.base-inversa {
+    position: absolute;
+    background-color: #E3C065;
+    border-radius: 50%;
+    width: 150vw;
+    height: 35rem;
+    margin-top: 50%;
+    margin-left: -25%;
+}
