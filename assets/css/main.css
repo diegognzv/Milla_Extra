@@ -51,3 +51,48 @@ main {
 .derecha img {
     margin: 25% 25%;
 }
+
+
+
+
+.boton {
+    margin-top: -175px;
+    position: absolute;
+    height: 70px;
+    display: grid;
+    margin-left: 213px;
+    justify-content: space-between;
+}
+
+.foto {
+    border-radius: 50%;
+    height: 41px;
+    width: 41px;
+    border-style: solid;
+    border-color:  white;    
+    background-color: transparent; 
+    margin-bottom:5px;
+}
+
+.like {
+    border-radius: 50%;
+    height: 41px;
+    width: 41px;
+    justify-content: center;
+    border-style: solid;
+    border-color:  white;    
+    background-color: transparent; 
+}   
+
+.like img {
+    width: 17px;
+    margin-top: 15%;
+    margin-left: 3%;
+}
+
+
+.foto img {
+    width: 17px;
+    margin-top: 15%;
+    margin-left: 3%;
+}
