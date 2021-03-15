@@ -1,12 +1,14 @@
 .img-header {
     position: absolute;
     opacity: 30%;
-    object-fit: fill;
-    max-width: 1050px;
-    max-height: 850px;
 }
 
-.header-logo{
+.img-header img {
+    object-fit: fill;
+    background-size: contain;
+}
+
+.header-logo {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
