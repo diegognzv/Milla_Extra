@@ -57,6 +57,7 @@ main {
     height: 70px;
     display: grid;
     margin-left: 213px;
+    justify-content: space-between;
 }
 
 .foto {
@@ -66,6 +67,7 @@ main {
     border-style: solid;
     border-color:  white;    
     background-color: transparent; 
+    margin-bottom:5px;
 }
 
 .like {
