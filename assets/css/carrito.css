@@ -1,14 +1,19 @@
 .contenedor-boton{
     position: absolute;
-    justify-content: flex-end;
-    align-items: center;
+    display: flex;
     width: 100%;
     height: 90px;
+    align-items: center;
+    justify-content: center;
+    bottom: 1px;
 }
 
 
 .carrito {
-    width: 20%;
-    height: 20px;
-    background-color: red;
+    width: 25%;
+    height: 50px;
+    background-color: #7E9357;
+    justify-content: flex-end;
+    border-radius: 20px;
+    border-style: none;
 }
