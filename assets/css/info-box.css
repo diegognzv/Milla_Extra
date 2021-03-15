@@ -24,5 +24,8 @@
 
 .botones_likecam {
     position: absolute;
+    border-radius: 50%;
+    padding: 2.5%;
+    background: #FFFFFF;
     
 }

@@ -28,12 +28,12 @@ main {
 }
 
 .slide{
+    display: flex;
     justify-content: space-between;
     width: 100%;
     height: 50%;
     left: 0%;
     right: 0%;
-
 }
 
 .flecha {    
