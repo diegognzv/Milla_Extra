@@ -3,7 +3,8 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: red;
+    opacity: 30%;
+    
 }
 
 .header-logo{
@@ -16,7 +17,7 @@
 }
 
  .fondoTitulo {
-    border-style: double;
+    border-style: none;
     width: 68px;
     height: 88px;
     background-color: white;
@@ -33,12 +34,19 @@ h1{
     line-height: 1px;
     z-index: 2;
     color: #527C1E;
+    margin-top: 12%;
+    margin-bottom: 0;
+    margin-right: 6%;
 }
 
 p{
     text-align: center;
     font-family: 'Bhavuka';
+    font-weight: 700;
     justify-content: center;
     z-index: 2;
     color: #527C1E;
+    margin-top: 2%;
+    margin-right: 3%;
+
 }
