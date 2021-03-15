@@ -1,10 +1,9 @@
 .img-header {
     position: absolute;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
     opacity: 30%;
-    
+    object-fit: fill;
+    max-width: 1050px;
+    max-height: 850px;
 }
 
 .header-logo{
