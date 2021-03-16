@@ -1,8 +1,11 @@
 main {
+    display: flex;
     position: relative;
     overflow: hidden;
     width: 100vw;
-    height: 147vw;
+    height: 96vh;
+    flex-direction: column;
+    align-items: center;
 }
 
 .sombra {
@@ -21,17 +24,16 @@ main {
     background-color: #E3C065;
     border-radius: 50%;
     width: 150vw;
-    height: 35rem; 
-    margin-top:50%;
-    margin-left: -25%;
-}
+    height: 35rem;
+    top: 30%;
+ }
 
 .slide{
-    margin-top: 42%;
     position: absolute;
     display: flex;
     justify-content: space-between;
     width: 100%;
+    top: 30%;
 }
 
 .flecha {    

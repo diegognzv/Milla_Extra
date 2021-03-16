@@ -3,11 +3,7 @@
     z-index: 2;
     color: #385C0A;
     display: inline-block;
-    position: absolute;
     height: 240px;
-    left: 13%;
-    right: 13%;
-    top: 250px;
     text-align: center;
     padding: 0% 5% 0% 5%;
     background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 255, 255, 0.5) 99.91%);

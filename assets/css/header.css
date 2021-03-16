@@ -16,6 +16,9 @@
     flex-direction: column;
     align-items: center;
     display: flex;
+    position: absolute;
+    width: 100%;
+    /* transform: translateY(-91px); animacion del circulo */
 }
 
  .fondoTitulo {
