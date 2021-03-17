@@ -1,0 +1,35 @@
+
+
+.slide {
+    position: absolute;
+    display: flex;
+    top: -25%;
+}
+.plato {
+    top:-20%
+}
+
+
+
+
+.plantapic {    
+    width: 250px;
+    height: 250px; 
+}
+
+.boton {
+    margin-top: -278px;
+    margin-left: 56px;
+    justify-content: space-between;
+    width: 184px;
+}
+
+.puntuacion {
+    margin-left: 35%;
+    margin-top: 20px;
+}
+
+.info-box {
+    text-align: justify;
+    margin-left: 7%;
+}
