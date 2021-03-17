@@ -54,11 +54,10 @@ main {
     margin: 25% 25%;
 }
 .boton {
-    margin-top: -175px;
+    margin: 5% 70%;
     position: absolute;
     height: 70px;
     display: grid;
-    margin-left: 213px;
     justify-content: space-between;
 }
 
