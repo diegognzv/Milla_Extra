@@ -26,9 +26,4 @@ function description(){
     document.getElementById("plato").style.height="160px";
     document.getElementById("plato").style.top="230px";
 
-
-
-
-
-
 }
