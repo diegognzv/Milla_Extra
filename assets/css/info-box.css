@@ -1,13 +1,13 @@
 .info-box {
-    
+    position: relative;
     z-index: 2;
     color: #385C0A;
     display: inline-block;
-    margin-left: 8%;
-    margin-right: 8%;
-    height: 240px;
+    margin-left: 65px;
+    margin-right: 65px;
     text-align: center;
     padding: 0% 5% 0% 5%;
+    background-position: bottom;
     background: linear-gradient(179.89deg, rgba(255, 255, 255, 0) 19.61%, rgba(255, 255, 255, 0.5) 99.91%);
     box-shadow: inset 0px -18px 8px rgba(255, 255, 255, 0.25);
     border-radius: 50px;
@@ -16,10 +16,10 @@
 
 .puntuacion {
     display: flex;
-    justify-content: center;
     position: absolute;
     border-radius: 50%;
-    margin-left: 34%;   
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .botones_likecam {
