@@ -94,3 +94,17 @@ main {
     margin-left: 3%;
 }
 
+.fotos {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    height: 10%;
+    bottom: 7%;
+}
+
+.fotos img {
+    width: 60px;
+    height: auto;
+    padding: 3px;
+}
