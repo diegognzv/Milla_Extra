@@ -54,8 +54,9 @@ main {
     margin: 25% 25%;
 }
 .boton {
-    margin: 5% 70%;
+    margin-right: 20px;
     position: absolute;
+    right: 0%;
     height: 70px;
     display: grid;
     justify-content: space-between;
