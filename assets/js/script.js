@@ -33,5 +33,7 @@ function description(){
     document.getElementById("pbox").style.textAlign= "start";
     document.getElementById("contenedor-boton").style.display= "none";
     document.getElementById("fotos").style.display= "inline-flex";
+    document.getElementById("fotos").style.width= "78%";
+    document.getElementById("fotos").style.justifyContent= "end";
     
 }
