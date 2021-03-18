@@ -1,7 +1,7 @@
 
 function description(){
 
-    document.getElementById("base").style.margin="-100% 0px 0px 0px";
+    document.getElementById("base").style.margin="-90% 0px 0px 0px";
     document.getElementById("header-logo").style.margin="-100% 0px 0px 0px";
     document.getElementById("slide").style.margin="-100% 0px 0px 0px";
     document.getElementById("plato").style.width="250px";
@@ -31,8 +31,7 @@ function description(){
     document.getElementById("price").style.marginTop="-34px";
     document.getElementById("pbox").style.width="70%";
     document.getElementById("pbox").style.textAlign= "start";
-
+    document.getElementById("contenedor-boton").style.display= "none";
+    document.getElementById("fotos").style.display= "inline-flex";
     
-
-
 }
