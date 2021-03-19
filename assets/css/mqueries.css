@@ -1,0 +1,49 @@
+ @media (min-width: 800px) {
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    position: inherit;
+}
+
+
+h1 {
+    display: flex;
+    margin-top: 5%;
+}
+
+.base {
+    top: 37%;
+}
+
+.plato {
+    top: 49%;
+    left:42.8%;
+}
+.product {
+    top: 16%;
+}
+
+.info-box {
+    height: 225px;
+}
+
+.plantapic {
+    margin-left: 41px;
+    margin-top: 31px;
+}
+.categories {
+    left: -2%;
+    top: 0;
+}
+
+.sombra {
+    left: 38%;
+    margin-top: 19%;
+}
+
+.puntuacion {
+    left: 51.5%;
+}
+
+}
