@@ -42,3 +42,12 @@ function description(){
     
     
 }
+
+
+document.getElementById("botonVolver").addEventListener("click" , atras())
+
+function atras() {
+    
+        
+
+}
