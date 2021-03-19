@@ -35,10 +35,20 @@ function description(){
     document.getElementById("price").style.marginTop="-34px";
     document.getElementById("pbox").style.width="75%";
     document.getElementById("pbox").style.textAlign= "start";
-    document.getElementById("contenedor-boton").style.height= "26%";
+    document.getElementById("contenedor-boton").style.height= "27%";
     document.getElementById("fotos").style.display= "inline-flex";
     document.getElementById("fotos").style.width= "78%";
     document.getElementById("fotos").style.justifyContent= "end";
+    document.getElementById("carrito").style.height="25%";
     
     
+}
+
+
+document.getElementById("botonVolver").addEventListener("click" , atras())
+
+function atras() {
+    
+        
+
 }
