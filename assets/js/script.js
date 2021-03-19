@@ -5,6 +5,7 @@ function description(){
     document.getElementById("header-logo").style.margin="-100% 0px 0px 0px";
     document.getElementById("slide").style.margin="-100% 0px 0px 0px";
     document.getElementById("plato").style.width="250px";
+    document.getElementById("plato").style.top="0";
     document.getElementById("plato").style.height="250px";
     document.getElementById("plato").style.margin="-20px";
     document.getElementById("plato").style.boxShadow="none";
